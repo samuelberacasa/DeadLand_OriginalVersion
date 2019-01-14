@@ -75,7 +75,7 @@ public class Juego {
 
     public Juego() {
         try {
-            nivel = 4;
+            nivel = 89;
             modo = modo.activo;
             heroe = null;
             danio = null;
