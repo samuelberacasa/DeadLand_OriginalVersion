@@ -10,7 +10,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author Topo
+ * @author Samuel Beracasa
  */
 public class Jugador implements Serializable{
     String nombre, puntaje;

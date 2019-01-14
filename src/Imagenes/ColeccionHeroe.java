@@ -13,7 +13,7 @@ import javax.imageio.ImageIO;
 
 /**
  *
- * @author Samuel
+ * @author Samuel Beracasa
  */
 public class ColeccionHeroe {
 

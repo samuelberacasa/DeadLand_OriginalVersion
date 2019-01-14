@@ -7,7 +7,7 @@ package Tiempo;
 
 /**
  *
- * @author Samuel
+ * @author Samuel Beracasa
  */
 public class Cronometro {
     private long retardo, arranque;

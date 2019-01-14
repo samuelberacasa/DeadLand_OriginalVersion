@@ -12,7 +12,7 @@ import javax.imageio.ImageIO;
 
 /**
  *
- * @author Monica
+ * @author Samuel Beracasa
  */
 public class ColeccionJuego {
     LinkedList sprites = new LinkedList();

@@ -11,7 +11,7 @@ import java.awt.image.BufferedImage;
 
 /**
  *
- * @author Samuel
+ * @author Samuel Beracasa
  */
 public class heroe extends Personaje {
 

@@ -8,7 +8,7 @@ import Tiempo.Cronometro;
 
 /**
  *
- * @author Samuel
+ * @author Samuel Beracasa
  */
 public class Arma {
 

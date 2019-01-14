@@ -19,7 +19,7 @@ import java.util.TreeMap;
 
 /**
  *
- * @author Topo
+ * @author Samuel Beracasa
  */
 public class ListaJugadores extends TreeMap implements Serializable{
 

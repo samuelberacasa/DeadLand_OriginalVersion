@@ -10,7 +10,7 @@ import java.awt.image.BufferedImage;
  */
 /**
  *
- * @author Samuel
+ * @author Samuel Beracasa
  */
 public class Zombies extends Personaje {
 

@@ -18,7 +18,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Jorge Lopez
+ * @author Samuel Beracasa
  */
 public class Fondo extends javax.swing.JPanel {
 

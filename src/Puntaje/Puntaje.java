@@ -20,7 +20,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Topo
+ * @author Samuel Beracasa
  */
 public class Puntaje extends javax.swing.JFrame {
 

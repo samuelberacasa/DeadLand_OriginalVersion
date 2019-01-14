@@ -20,7 +20,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Monica
+ * @author Samuel Beracasa
  */
 public class IngresarPuntaje extends javax.swing.JFrame {
 

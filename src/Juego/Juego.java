@@ -24,7 +24,7 @@ import Imagenes.ColeccionPerks;
 
 /**
  *
- * @author Samuel
+ * @author Samuel Beracasa
  */
 public class Juego {
 
@@ -75,7 +75,7 @@ public class Juego {
 
     public Juego() {
         try {
-            nivel = 50;
+            nivel = 4;
             modo = modo.activo;
             heroe = null;
             danio = null;

@@ -17,7 +17,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Monica
+ * @author Samuel Beracasa
  */
 public class Fondos extends javax.swing.JPanel {
 

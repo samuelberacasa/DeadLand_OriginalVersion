@@ -15,7 +15,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Samuel
+ * @author Samuel Beracasa
  */
 public class MapaMatriz {
 

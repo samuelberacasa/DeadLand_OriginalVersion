@@ -20,7 +20,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Jorge Lopez
+ * @author Samuel Beracasa
  */
 public class Menu extends javax.swing.JFrame {
 
